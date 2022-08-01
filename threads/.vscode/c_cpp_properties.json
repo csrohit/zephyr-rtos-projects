@@ -3,9 +3,8 @@
         {
             "name": "Zephyr",
             "includePath": [
-                "/home/chin2/code/zephyr/zephyr-bmp180/pre-generated",
-                "/home/chin2/zephyrproject/zephyr/include",
-                "/home/chin2/code/zephyr/zephyr-bmp180/rohit/zephyr/include/generated"
+                "${workspaceFolder}/rohit/zephyr/include/generated",
+                "/home/chin2/zephyrproject/zephyr/include"
             ],
             "defines": [],
             "compilerPath": "/opt/gcc-arm-none-eabi/bin/arm-none-eabi-gcc",
