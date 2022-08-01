@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Zephyr",
+            "includePath": [
+                "/home/chin2/code/zephyr/zephyr-bmp180/pre-generated",
+                "/home/chin2/zephyrproject/zephyr/include",
+                "/home/chin2/code/zephyr/zephyr-bmp180/rohit/zephyr/include/generated"
+            ],
+            "defines": [],
+            "compilerPath": "/opt/gcc-arm-none-eabi/bin/arm-none-eabi-gcc",
+            "cStandard": "gnu17",
+            "cppStandard": "gnu++17",
+            "intelliSenseMode": "linux-gcc-arm",
+            "configurationProvider": "ms-vscode.cmake-tools"
+        }
+    ],
+    "version": 4
+}
